@@ -15,12 +15,19 @@ O bootcamp abrange os principais fundamentos da linguagem Java com foco no Back-
 ## 📁 Organização
 
 As atividades estão organizadas da seguinte forma:
+
 src/
+
 └── FundamentosJava/
+
     ├── Exercicio1.java
+
     ├── Exercicio2.java
+
     ├── Exercicio3.java
+
     ├── Exercicio4.java
+    
 └── ...
 
 ## 💻 Tecnologias Utilizadas
