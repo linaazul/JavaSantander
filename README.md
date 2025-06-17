@@ -20,13 +20,13 @@ src/
 
 └── FundamentosJava/
 
-    ├── Exercicio1.java
+    └── Exercicio1.java
 
     ├── Exercicio2.java
 
     ├── Exercicio3.java
 
-    ├── Exercicio4.java
+    └── Exercicio4.java
     
 └── ...
 
