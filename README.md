@@ -21,19 +21,33 @@ O bootcamp abrange os principais fundamentos da linguagem Java com foco no Back-
 As atividades estão organizadas da seguinte forma:
 
 JavaSantander/
+
 ├── README.md
+
 └── src/
+
     ├── FundamentosJava/
+    
     │   ├── Exercicio1.java
+    
     │   ├── Exercicio2.java
+    
     │   ├── Exercicio3.java
+    
     │   └── Exercicio4.java
+    
     │
+    
     └── EstruturasDeControle/
+    
         ├── Exercicio01.java
+        
         ├── Exercicio02.java
+        
         ├── Exercicio03.java
+        
         └── Exercicio04.java
+        
 
 ## 💻 Tecnologias Utilizadas
 
